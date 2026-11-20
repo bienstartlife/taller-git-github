@@ -1,0 +1,7 @@
+Mi primera práctica con Git y GitHub.
+
+Nombre: Cristian Moreno Piza
+Curso: Desarrollo de software - Aplicaicones Open Source
+Fecha: 19/11/2026
+
+Estoy aprendiendo a usar control de versiones.
